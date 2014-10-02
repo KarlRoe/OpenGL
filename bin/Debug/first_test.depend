@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1399332365 source:c:\users\karl\desktop\test\inter\myapp.c
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1367865196 c:\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1367865278 c:\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1399338179 source:c:\users\karl\desktop\inter\myapp.c
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1399338701 source:c:\users\karl\desktop\ca417_assignment2\myapp.c
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1399338701 source:c:\users\karl\desktop\college cleanup\ca417_assignment2\myapp.c
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
